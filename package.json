@@ -1,0 +1,15 @@
+{
+  "name": "is-opencollective-member",
+  "version": "1.0.0",
+  "description": "Checks to see if a user is an Open Collective member for a project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
