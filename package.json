@@ -1,15 +1,24 @@
 {
   "name": "is-opencollective-member",
-  "version": "1.0.0",
   "description": "Checks to see if a user is an Open Collective member for a project.",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test"
-  },
-  "keywords": [],
+  "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com>",
-  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pdehaan/is-opencollective-member/issues"
+  },
   "dependencies": {
     "axios": "^0.26.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/is-opencollective-member#readme",
+  "keywords": ["opencollective"],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/is-opencollective-member.git"
+  },
+  "scripts": {
+    "test": "node test"
   }
 }
